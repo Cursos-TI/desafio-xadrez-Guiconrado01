@@ -6,11 +6,11 @@ int main() {
 
   for( i = 0; i < 5; i++)
   {
-    printf("Movimento Cavalo para Direita\n");
+    printf("Movimento Torre para Direita\n");
   }
     do{
-      printf("Movimento Bispo para Cima,Esquerda");
-      printf("\n", x);
+      printf("Movimento Bispo para Cima,Esquerda\n");
+      
       x++;
     }while( x < 5);
 
