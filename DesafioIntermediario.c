@@ -7,7 +7,7 @@ int main() {
     int j = 0;
 
     for(i = 1; i <= 5; i++) {
-        printf("Movimento %d: Cavalo para Direita\n", i);
+        printf("Movimento %d: Torre para Direita\n", i);
     }
 
     do {
